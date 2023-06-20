@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there👋, my name is BELAY SIRAK and i am a full-stack developer
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belay09&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **belay09/belay09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
