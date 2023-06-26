@@ -1,8 +1,10 @@
 ### Hi there👋, my name is BELAY SIRAK and i am a full-stack developer
 
 
+Here are the programming languages I frequently use in my GitHub repositories, along with their respective rankings based on GitHub's language statistics:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belay09&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=belay09&layout=compact)
+
 <!--
 **belay09/belay09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
