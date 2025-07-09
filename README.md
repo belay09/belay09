@@ -1,5 +1,9 @@
 ### Hi there👋, my name is BELAY SIRAK and i am a full-stack developer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=belay09&label=Profile%20views&color=0e75b6&style=flat" alt="belay" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belay09" alt="belay" /></a> </p>
+
 
 Here are the programming languages I frequently use in my GitHub repositories, along with their respective rankings based on GitHub's language statistics:
 
