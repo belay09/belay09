@@ -2,11 +2,6 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#007acc;">Belay Sirak</span></h1>
 <h3 align="center">💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 🧠 SaaS Builder | 🏆 Top-Rated Upwork Freelancer</h3>
 
-<p align="center">
-  <a href="https://www.belay-sirak.com" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.upwork.com/freelancers/belay" target="_blank">💼 Upwork</a> •
-  <a href="mailto:belay1.sirak2.tsige3@gmail.com">📧 Contact</a>
-</p>
 
 ---
 
