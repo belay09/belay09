@@ -33,7 +33,7 @@ I’ve built a reputation for delivering clean, efficient, and client-focused so
 Vue.js • Nuxt.js • React • TypeScript • Tailwind CSS  
 
 #### **Backend**
-Node.js • Express.js • Go • Hasura • MongoDB • PostgreSQL  
+Node.js • Express.js • Go • Hasura • Mysql • PostgreSQL  
 
 #### **Cloud & DevOps**
 AWS (EC2, ECS) • Docker • Nginx • CI/CD Pipelines  
